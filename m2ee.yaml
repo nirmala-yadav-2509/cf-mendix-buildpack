@@ -60,4 +60,4 @@ mxruntime:
 
  ScheduledEventExecution: ALL
 
- LogMinDurationQuery: 1
+ LogMinDurationQuery: 10000
