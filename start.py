@@ -46,7 +46,7 @@ def get_current_buildpack_commit():
 
 
 logger.info(
-    "Started Mendix Cloud Foundry Buildpack v%s [commit:%s]",
+    "Started Mendix Cloud Foundry Buildpack Test v%s [commit:%s]",
     BUILDPACK_VERSION,
     get_current_buildpack_commit(),
 )
